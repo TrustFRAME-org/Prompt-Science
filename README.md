@@ -40,5 +40,3 @@ We argue that the bottleneck in human-AI collaboration is not model capability b
 > **Key Insight:** The limitation of AI today is often not the intelligence of the machine, but the clarity of the human instruction.
 
 ---
-
-**Would you like me to help you draft a "Prompt Science" template based on these four dimensions for one of your specific workflows?**
